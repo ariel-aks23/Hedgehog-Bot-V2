@@ -1,3 +1,5 @@
+const axios = require('axios');
+const OPENAI_API_KEY = 'ariel';
 "use strict";
 
 var utils = require("./utils");
